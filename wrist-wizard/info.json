@@ -16,5 +16,5 @@
   "announcement_en": "This application aims to bring multi-model, high quality watch GPT-AI application for watches. Looking forward to you like us ❤️",
   "cn_models": "qwen-turbo,deepseek-v2,qwen2-57b,glm4-9b,qwen2-57B,yi1.5-9b",
   "vip_benefits_cn":"订阅会员享受更高的模型使用权限，可以使用更多高级模型。并且解锁每日次数限制，同时解锁如联网搜索、语音识别等功能。\n订阅会员服务是一项值得开通的服务，将让您得到不一样的全新智能体验。",
-  "max_chat_count":70
+  "max_chat_count":2
 }
