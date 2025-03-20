@@ -16,6 +16,6 @@
   "announcement_en": "This application aims to bring multi-model, high quality watch GPT-AI application for watches. Looking forward to you like us ❤️",
   "cn_models": "qwen-turbo,deepseek-v2,qwen2-57b,glm4-9b,qwen2-57B,yi1.5-9b,qwen2.5-32b,qwen2.5-72b,doubao-lite,doubao-pro,deepseek-chat,deepseek-v3,ernie-speed,ernie-lite,qwq-32b,deepseek-r1-qwen32b",
   "vip_benefits_cn": "订阅会员享受更高的模型使用权限，可以使用更多高级模型。并且解锁每日次数限制，同时解锁如联网搜索、语音识别等功能。\n订阅会员服务是一项值得开通的服务，将让您得到不一样的全新智能体验。",
-  "algorithm_filing_info":"模型：Qwen/QWQ\n属地:浙江省\n模型名称:通义千问大模型\n备案单位:阿里巴巴达摩院（杭州）科技有限公司\n备案号:ZheJiang-TongYiQianWen-20230901\n备案时间:2023/9/12\n---\n模型：Deepseek\n属地:北京市\n模型名称:求索对话DeepSeek Chat\n备案单位:北京深度求索人工智能基础技术研究有限公司\n备案号:Beijing-DeepseekChat-202404280016\n备案时间:2024/5/13",
+  "algorithm_filing_info":"模型：Qwen/QWQ\n属地:浙江省\n模型名称:通义千问大模型\n备案单位:阿里巴巴达摩院（杭州）科技有限公司\n备案号:ZheJiang-TongYiQianWen-20230901\n备案时间:2023/9/12\n\n---\n\n模型：Deepseek\n属地:北京市\n模型名称:求索对话DeepSeek Chat\n备案单位:北京深度求索人工智能基础技术研究有限公司\n备案号:Beijing-DeepseekChat-202404280016\n备案时间:2024/5/13",
   "max_chat_count": 40
 }
