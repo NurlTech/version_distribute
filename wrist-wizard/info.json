@@ -23,5 +23,5 @@
     "请把任务交给我吧"
       ],
   "max_chat_count": 32,
-  "need_optimize_network": false
+  "need_optimize_network": true
 }
