@@ -26,5 +26,5 @@
       ],
   "max_chat_count": 32,
   "need_optimize_network": true,
-  "in_check_version": "1.2"
+  "in_check_version": "1.3"
 }
